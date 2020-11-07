@@ -4,5 +4,5 @@ import ru.turchinovich.sfgpetclinic.model.PetType;
 
 import javax.xml.catalog.CatalogResolver;
 
-public interface PetTypeService extends CrudService<PetType,Long> {
+public interface PetTypeService extends CrudService<PetType, Long> {
 }
