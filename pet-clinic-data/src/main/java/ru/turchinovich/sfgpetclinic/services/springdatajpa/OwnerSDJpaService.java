@@ -8,9 +8,7 @@ import ru.turchinovich.sfgpetclinic.repositories.PetRepository;
 import ru.turchinovich.sfgpetclinic.repositories.PetTypeRepository;
 import ru.turchinovich.sfgpetclinic.services.OwnerService;
 
-import javax.naming.Name;
 import java.util.HashSet;
-import java.util.Optional;
 import java.util.Set;
 
 @Service

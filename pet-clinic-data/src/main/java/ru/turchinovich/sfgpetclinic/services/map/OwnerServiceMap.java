@@ -3,7 +3,6 @@ package ru.turchinovich.sfgpetclinic.services.map;
 import org.springframework.stereotype.Service;
 import ru.turchinovich.sfgpetclinic.model.Owner;
 import ru.turchinovich.sfgpetclinic.model.Pet;
-import ru.turchinovich.sfgpetclinic.model.PetType;
 import ru.turchinovich.sfgpetclinic.services.OwnerService;
 import ru.turchinovich.sfgpetclinic.services.PetService;
 import ru.turchinovich.sfgpetclinic.services.PetTypeService;
